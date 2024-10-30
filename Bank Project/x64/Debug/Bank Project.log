@@ -1,0 +1,24 @@
+﻿  Bank Project.cpp
+C:\Users\Hisham Salah\Downloads\My-Github\Bank Project\Bank Project\clsString.h(47,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\Hisham Salah\Downloads\My-Github\Bank Project\Bank Project\clsString.h(83,24): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\Hisham Salah\Downloads\My-Github\Bank Project\Bank Project\clsString.h(87,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\Hisham Salah\Downloads\My-Github\Bank Project\Bank Project\clsString.h(184,28): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\Hisham Salah\Downloads\My-Github\Bank Project\Bank Project\clsString.h(276,29): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\Hisham Salah\Downloads\My-Github\Bank Project\Bank Project\clsString.h(296,29): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\Hisham Salah\Downloads\My-Github\Bank Project\Bank Project\clsString.h(335,22): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\Hisham Salah\Downloads\My-Github\Bank Project\Bank Project\clsString.h(373,22): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\Hisham Salah\Downloads\My-Github\Bank Project\Bank Project\clsDate.h(287,11): warning C4244: 'initializing': conversion from 'double' to 'short', possible loss of data
+C:\Users\Hisham Salah\Downloads\My-Github\Bank Project\Bank Project\clsUser.h(139,9): warning C4240: nonstandard extension used: access to 'clsUser::stLoginRegisterRecord' now defined to be 'public', previously it was defined to be 'private'
+C:\Users\Hisham Salah\Downloads\My-Github\Bank Project\Bank Project\clsInputValidate.h(102,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Hisham Salah\Downloads\My-Github\Bank Project\Bank Project\clsInputValidate.h(105,26): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Hisham Salah\Downloads\My-Github\Bank Project\Bank Project\clsBankClient.h(151,9): warning C4240: nonstandard extension used: access to 'clsBankClient::stTransferLogRecord' now defined to be 'public', previously it was defined to be 'private'
+C:\Users\Hisham Salah\Downloads\My-Github\Bank Project\Bank Project\clsBankClient.h(29,24): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Hisham Salah\Downloads\My-Github\Bank Project\Bank Project\clsBankClient.h(325,22): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Hisham Salah\Downloads\My-Github\Bank Project\Bank Project\clsBankClient.h(331,22): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Hisham Salah\Downloads\My-Github\Bank Project\Bank Project\clsBankClient.h(339,22): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Hisham Salah\Downloads\My-Github\Bank Project\Bank Project\clsAddNewClientScreen.h(32,58): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Hisham Salah\Downloads\My-Github\Bank Project\Bank Project\clsUpdateClientScreen.h(46,58): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Hisham Salah\Downloads\My-Github\Bank Project\Bank Project\clsTotalBalancesScreen.h(58,82): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Hisham Salah\Downloads\My-Github\Bank Project\Bank Project\clsBankClient.h(297,1): warning C4715: 'clsBankClient::Save': not all control paths return a value
+C:\Users\Hisham Salah\Downloads\My-Github\Bank Project\Bank Project\clsUser.h(260,1): warning C4715: 'clsUser::Save': not all control paths return a value
+  Bank Project.vcxproj -> C:\Users\Hisham Salah\Downloads\My-Github\Bank Project\x64\Debug\Bank Project.exe
